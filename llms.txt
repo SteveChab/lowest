@@ -1,0 +1,22 @@
+# Lowest Hallowed
+
+> Lowest Hallowed is Christian dark ambient and dungeon synth for prayer, with unblack undertones, composed by Steve Chab. A new album comes out each month, and listeners pray at the same time.
+
+Long, slow, instrumental music made for prayer and intercession. Think neoclassical ambient with a darker edge. Once a month, listeners press play on the new album at the same time and pray on their own, each from where they are. Prayers and requests go in the chat on Bandcamp.
+
+## This month
+<!-- gen:llms-this-month -->
+- Next: Hour of Prayer: I. Watchman in the Darkest Hour. Thursday, December 3, 10pm Eastern. RSVP on Bandcamp: https://lowesthallowed.bandcamp.com/album/i-watchman-in-the-darkest-hour
+<!-- /gen:llms-this-month -->
+
+## Pages
+- [Home](https://lowesthallowed.com/): the project in a few lines.
+- [Prayer Watch](https://lowesthallowed.com/prayer-watch/): what the monthly gathering is, how to join, and the next date.
+- [About](https://lowesthallowed.com/about/): who composes it, what it sounds like, and what it is not.
+- [Similar artists](https://lowesthallowed.com/similar/): slow, neoclassical, and ambient artists the composer enjoys.
+
+## Links
+<!-- gen:llms-links -->
+- Bandcamp: https://lowesthallowed.bandcamp.com
+- YouTube: https://www.youtube.com/@lowesthallowed
+<!-- /gen:llms-links -->

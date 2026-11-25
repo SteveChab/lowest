@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lowest Hallowed//Prayer Watch//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lowest Hallowed Prayer Watch
+BEGIN:VEVENT
+UID:watch-20261203@lowesthallowed.com
+DTSTAMP:20261204T030000Z
+DTSTART:20261204T030000Z
+DTEND:20261204T040000Z
+SUMMARY:Lowest Hallowed Hour of Prayer: I. Watchman in the Darkest Hour
+DESCRIPTION:Press play on I. Watchman in the Darkest Hour at the same time 
+ as everyone else and pray on your own. Prayers and requests go in the chat
+  on Bandcamp. https://lowesthallowed.bandcamp.com/album/i-watchman-in-the-
+ darkest-hour
+LOCATION:Online\, on Bandcamp
+URL:https://lowesthallowed.bandcamp.com/album/i-watchman-in-the-darkest-hou
+ r
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Hour of Prayer: I. Watchman in the Darkest Hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR

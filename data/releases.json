@@ -1,0 +1,43 @@
+{
+  "site": {
+    "name": "Lowest Hallowed",
+    "url": "https://lowesthallowed.com",
+    "answer_line": "Lowest Hallowed is Christian dark ambient and dungeon synth for prayer, with unblack undertones, composed by Steve Chab. A new album comes out each month, and listeners pray at the same time.",
+    "timezone": "America/New_York",
+    "timezone_label": "Eastern",
+    "watch_time": "22:00",
+    "share_image": "assets/share-card.jpg",
+    "share_alt": "The Lowest Hallowed Prayer Watch. Once a month, one album, one night."
+  },
+  "links": {
+    "bandcamp": "https://lowesthallowed.bandcamp.com",
+    "youtube": "https://www.youtube.com/@lowesthallowed",
+    "spotify": "",
+    "apple_music": ""
+  },
+  "nav": [
+    {
+      "label": "Prayer Watch",
+      "href": "/prayer-watch/"
+    },
+    {
+      "label": "About",
+      "href": "/about/"
+    },
+    {
+      "label": "Similar artists",
+      "href": "/similar/"
+    }
+  ],
+  "releases": [
+    {
+      "numeral": "I",
+      "title": "Watchman in the Darkest Hour",
+      "release": "2026-12-04",
+      "event_name": "Hour of Prayer",
+      "watch": "2026-12-03T22:00",
+      "bandcamp": "https://lowesthallowed.bandcamp.com/album/i-watchman-in-the-darkest-hour",
+      "line": "Four pieces, about an hour long, that move through the watch, the garden, the agony, and the cup."
+    }
+  ]
+}
