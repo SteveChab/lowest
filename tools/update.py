@@ -5,7 +5,7 @@ Standard library only (Python 3.9 or newer). Run from anywhere:
 
     python3 tools/update.py                  regenerate, then print what the site shows now
     python3 tools/update.py --check          change nothing; exit 1 if anything is stale; list open placeholders
-    python3 tools/update.py --add PATH       add a release from an ambient-pedal release doc (docs/releases/NN-*.md)
+    python3 tools/update.py --add PATH       add a release from a release doc (NN-*.md)
     python3 tools/update.py --domain HOST    set the real domain everywhere (also writes CNAME)
     python3 tools/update.py --today 2027-01-08[THH:MM]   pretend it is that Eastern time (for testing)
 
@@ -519,7 +519,7 @@ def cmd_domain(host):
 def main():
     ap = argparse.ArgumentParser(description="Regenerate the dated parts of the site from data/releases.json.")
     ap.add_argument("--check", action="store_true", help="change nothing; exit 1 if anything is stale")
-    ap.add_argument("--add", metavar="PATH", help="add a release from an ambient-pedal docs/releases/NN-*.md file")
+    ap.add_argument("--add", metavar="PATH", help="add a release from a release doc (NN-*.md)")
     ap.add_argument("--domain", metavar="HOST", help="set the real domain everywhere and write CNAME")
     ap.add_argument("--today", metavar="DATE", help="pretend it is this Eastern date (YYYY-MM-DD or YYYY-MM-DDTHH:MM)")
     args = ap.parse_args()
