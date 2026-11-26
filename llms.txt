@@ -1,8 +1,8 @@
 # Lowest Hallowed
 
-> Lowest Hallowed is Christian dark ambient and dungeon synth for prayer, with unblack undertones, composed by Steve Chab. A new album comes out each month, and listeners pray at the same time.
+> Lowest Hallowed: Christian dark ambient and dungeon synth for prayer, with unblack undertones, composed by Steve Chab. A new album comes out each month, and listeners pray at the same time.
 
-Long, slow, instrumental music made for prayer and intercession. Think neoclassical ambient with a darker edge. Once a month, listeners press play on the new album at the same time and pray on their own, each from where they are. Prayers and requests go in the chat on Bandcamp.
+Long, slow, instrumental music made for prayer and intercession. Think neoclassical ambient with a darker edge. Once a month, listeners press play on the new album at the same time and pray on their own, each from where they are. Prayer requests go in the chatbox on Bandcamp.
 
 ## This month
 <!-- gen:llms-this-month -->

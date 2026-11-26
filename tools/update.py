@@ -243,7 +243,7 @@ def render_event_ld(data, params, ctx):
         "@type": "Event",
         "name": nxt.full_title,
         "description": ("Listeners press play on %s at the same time and pray on their own, each from where they are. "
-                        "Prayers and requests go in the chat." % nxt.name),
+                        "Prayer requests go in the chatbox." % nxt.name),
         "startDate": nxt.start.isoformat(),
         "endDate": nxt.end.isoformat(),
         "eventStatus": "https://schema.org/EventScheduled",
@@ -316,7 +316,7 @@ def render_ics(data, ctx):
         utc = ZoneInfo("UTC")
         fmt = "%Y%m%dT%H%M%SZ"
         desc = ("Press play on %s at the same time as everyone else and pray on your own. "
-                "Prayers and requests go in the chat on Bandcamp. %s" % (nxt.name, nxt.bandcamp))
+                "Prayer requests go in the chatbox on Bandcamp. %s" % (nxt.name, nxt.bandcamp))
         lines += [
             "BEGIN:VEVENT",
             "UID:watch-%s@%s" % (nxt.start.strftime("%Y%m%d"), host),
